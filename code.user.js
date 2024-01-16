@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Steam Economy Enhancer
-// @icon        https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg
+// @icon        https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com
 // @namespace   https://github.com/krolchonok
 // @author      krolchonok
 // @license     MIT
@@ -22,8 +22,8 @@
 // @grant       unsafeWindow
 // @homepageURL https://github.com/krolchonok/userscript-steam
 // @supportURL  https://github.com/krolchonok/userscript-steam/issues
-// @downloadURL https://github.com/krolchonok/userscript-steam/master/code.user.js
-// @updateURL   https://github.com/krolchonok/userscript-steam/master/code.user.js
+// @downloadURL https://github.com/krolchonok/userscript-steam/main/code.user.js
+// @updateURL   https://github.com/krolchonok/userscript-steam/main/code.user.js
 // ==/UserScript==
 // jQuery is already added by Steam, force no conflict mode.
 (function($, async) {
