@@ -2095,15 +2095,12 @@
             var TF2 = appId == 440;
 
             var sellButtons = $('<div id="inventory_sell_buttons" style="margin-bottom:12px;">' +
-                '<a class="btn_green_white_innerfade btn_medium_wide sell_all separator-btn-right"><span>Продать все</span></a>' +
-                '<a class="btn_green_white_innerfade btn_medium_wide sell_all_duplicates separator-btn-right"><span>Продать все повторы</span></a>' +
                 '<a class="btn_green_white_innerfade btn_medium_wide sell_selected separator-btn-right" style="display:none"><span>Продать выбранные предметы</span></a>' +
                 '<a class="btn_green_white_innerfade btn_medium_wide sell_manual separator-btn-right" style="display:none"><span>Продать вручную</span></a>' +
                 (showMiscOptions ?
                     '<a class="btn_green_white_innerfade btn_medium_wide sell_all_cards separator-btn-right"><span>Sell All Cards</span></a>' +
                     '<div style="margin-top:12px;">' +
                     '<a class="btn_darkblue_white_innerfade btn_medium_wide turn_into_gems separator-btn-right" style="display:none"><span>Turn Selected Items Into Gems</span></a>' +
-                    '<a class="btn_darkblue_white_innerfade btn_medium_wide gem_all_duplicates separator-btn-right"><span>Turn All Duplicate Items Into Gems</span></a>' +
                     '<a class="btn_darkblue_white_innerfade btn_medium_wide unpack_booster_packs separator-btn-right" style="display:none"><span>Unpack Selected Booster Packs</span></a>' +
                     '</div>' :
                     '') +
