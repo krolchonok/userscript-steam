@@ -31,8 +31,6 @@
 
     var DateTime = luxon.DateTime;
 
-    const STEAM_INVENTORY_ID = 753;
-
     const PAGE_MARKET = 0;
     const PAGE_MARKET_LISTING = 1;
     const PAGE_TRADEOFFER = 2;
