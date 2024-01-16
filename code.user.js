@@ -22,8 +22,8 @@
 // @grant       unsafeWindow
 // @homepageURL https://github.com/krolchonok/userscript-steam
 // @supportURL  https://github.com/krolchonok/userscript-steam/issues
-// @downloadURL https://raw.githubusercontent.com/krolchonok/userscript-steam/master/code.user.js
-// @updateURL   https://raw.githubusercontent.com/krolchonok/userscript-steam/master/code.user.js
+// @downloadURL https://github.com/krolchonok/userscript-steam/raw/main/code.user.js
+// @updateURL   https://github.com/krolchonok/userscript-steam/raw/main/code.user.js
 // ==/UserScript==
 // jQuery is already added by Steam, force no conflict mode.
 (function($, async) {
