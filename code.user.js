@@ -3619,7 +3619,7 @@
         '#market_name_search { float: right; background: rgba(0, 0, 0, 0.25); color: white; border: none;height: 25px; padding-left: 6px;}' +
         '.price_option_price { width: 100px }' +
         '#see_settings { background: #26566c; margin-right: 10px; height: 24px; line-height:24px; display:inline-block; padding: 0px 6px; }' +
-        '.inventory_item_price { top: 0px;position: absolute;right: 0;background: #3571a5;padding: 2px;color: white; font-size:11px; border: 1px solid #666666; width: 100%; text-align: center; }' +
+        '.inventory_item_price { top: 0px;position: absolute;right: 0;background: #3571a5;padding: 0px;color: white; font-size:11px; width: 100%; text-align: center; }' +
         '.separator-large {display:inline-block;width:6px;}' +
         '.separator-small {display:inline-block;width:1px;}' +
         '.separator-btn-right {margin-right:12px;}' +
