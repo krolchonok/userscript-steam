@@ -4,7 +4,7 @@
 // @namespace   https://github.com/krolchonok
 // @author      krolchonok
 // @license     MIT
-// @version     1.0.0
+// @version     1.0.1
 // @description Enhances the Steam Inventory and Steam Market.
 // @match     *://steamcommunity.com/id/*/inventory*
 // @match     *://steamcommunity.com/profiles/*/inventory*
